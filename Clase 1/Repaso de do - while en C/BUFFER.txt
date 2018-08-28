@@ -1,0 +1,7 @@
+Un buffer es una memoria en la que se almacenan datos de manera temporal para ser procesados. Se utiliza cuando los datos de entrada llegan a una mayor velocidad de la que podemos procesarlos o cuando llegan de manera tan irregular y esporádica que no resulta conveniente dedicar tiempo y recursos a esperarlos. Algunos ejemplos de buffers son los sistemas de entrada del teclado que almacenan las teclas presionadas
+
+PROBLEMAS DEL BUFFER
+
+Pide un caracter, que saca por pantalla, pero al pedir el segundo coge la pulsación de Enter que hemos usado para el primero, no espera a que pulsemos nada, y lo que nos saca al final es una línea en blanco. Para evitar esto debemos limpiar el buffer de entrada antes de pedir el segundo caracter. En Windows podemos utilizar la orden fflush(stdin) o setbuf(stdin,NULL), que limpia el buffer.
+
+solucion: utilizar setbuf para vaciar el buffer de entrada: setbuf(stdin,NULL). De este modo rellenamos el buffer con nada, es decir lo vaciamos.
