@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536194953 source:c:\users\bnq\desktop\tp 1 - calculadora\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+	"operaciones.h"
+
+1535947809 source:c:\users\bnq\desktop\tp 1 - calculadora\operac.c
+
+1536194917 source:c:\users\bnq\desktop\tp 1 - calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1536194537 c:\users\bnq\desktop\tp 1 - calculadora\operaciones.h
+
