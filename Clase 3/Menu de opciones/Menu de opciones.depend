@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1535754617 source:c:\users\bnq\desktop\menu de opciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1535758160 source:c:\users\bnq\desktop\matías\menu de opciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
