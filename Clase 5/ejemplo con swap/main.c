@@ -8,7 +8,7 @@ int main()
     int i;
     int j;
     int aux;
-    int flag=0;
+//    int flag=0;
 
     for(i=0 ; 1<T-1 ; i++)
     {
@@ -21,6 +21,7 @@ int main()
                 miVector[j]=aux;
             }
         }
+
     }
 
 
