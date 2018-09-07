@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536324539 source:c:\users\alumno\desktop\vectores[]\array.c
+	<stdio.h>
+	"Array.h"
+
+1536324248 c:\users\alumno\desktop\vectores[]\array.h
+
+1536323957 source:c:\users\alumno\desktop\vectores[]\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Array.h"
+
