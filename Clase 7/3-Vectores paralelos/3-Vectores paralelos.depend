@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537232096 source:c:\users\bnq\desktop\3-vectores paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+

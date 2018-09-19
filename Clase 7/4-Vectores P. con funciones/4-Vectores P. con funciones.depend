@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1537235161 source:c:\users\bnq\desktop\4-vectores p. con funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1537241223 source:c:\users\bnq\desktop\4-vectores p. con funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1537241240 c:\users\bnq\desktop\4-vectores p. con funciones\funciones.h
+
