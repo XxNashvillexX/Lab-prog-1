@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536785114 source:c:\users\bnq\desktop\cccc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cccc.h"
+
+1536786998 source:c:\users\bnq\desktop\cccc\cccc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cccc.h"
+
+1536786612 c:\users\bnq\desktop\cccc\cccc.h
+
