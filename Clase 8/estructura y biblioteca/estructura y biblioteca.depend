@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537404929 source:c:\users\bnq\desktop\estructura y biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumnos.h"
+
+1537404976 c:\users\bnq\desktop\estructura y biblioteca\alumnos.h
+
+1537405014 source:c:\users\bnq\desktop\estructura y biblioteca\alumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumnos.h"
+
