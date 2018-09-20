@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\bnq\desktop\vector con funcion\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537402735 source:c:\users\bnq\desktop\vector con funcion\array.c
+	<stdio.h>
+	"array.h"
+
+1537402690 c:\users\bnq\desktop\vector con funcion\array.h
+
