@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537487353 source:c:\users\bnq\desktop\matías\utn\lab-prog\lab-prog-1\clase 8\estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
